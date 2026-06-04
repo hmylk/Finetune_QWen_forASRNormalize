@@ -1,0 +1,12 @@
+__pycache__/
+logs/
+eval_outputs_old/
+
+*.gguf
+
+asr_formal_lora3/
+asr_formal_merged/
+asr_formal_merged-llamacpp/
+qwen2.5-0.5b-lora-finetune3/
+qwen2.5-0.5b-merged/
+qwen2.5-0.5b-merged-llamacpp/
